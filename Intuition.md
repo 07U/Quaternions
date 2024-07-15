@@ -96,9 +96,9 @@ To the previous part: [\\(\\text{I}\\ \\) Preamble](https://07U.github.io/Quater
 To the next part: [\\(\\text{III}\\ \\) Establishing Basic Concepts](https://07U.github.io/Quaternions/EstablishingBasicConcepts).
 <br><br>
 
-# Comments
+# Discussion
 
-Discussion.
+Any comments or questions related to this part can be posted in the [dedicated LinkedIn post](https://www.linkedin.com/posts/oz-davidi_dear-network-i-am-super-thrilled-to-share-ugcPost-7217888459317755904-ersq).
 <br><br>
 
 ---
