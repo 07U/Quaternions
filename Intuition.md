@@ -104,5 +104,5 @@ Any comments or questions related to this part can be posted in the [dedicated L
 ---
 <br>
 
-[^4]: It is assumed that the reader is familiar with these kind of operations.
+[^4]: It is assumed that the reader is familiar with these kind of operations. If not, [3Blue1Brown's wonderful video](https://www.youtube.com/watch?v=O85OWBJ2ayo) gives a definition. This is exactly the same way Euler's formula, Eq.&nbsp;\\eqref{eq:Euler's Formula}, is derived.
 [^5]: A comment for the experts: this is the first concept that gets presented, so there is an attempt to stay in the "intuition stage". Hence, no buzz words are used, and the discussion is kept at an extremely high level.
