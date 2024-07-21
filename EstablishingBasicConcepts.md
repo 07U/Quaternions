@@ -144,7 +144,7 @@ To the next part: [\\(\\text{IV}\\ \\) The Connection To \\(3D\\) Rotations](htt
 
 # Discussion
 
-Any comments or questions related to this part can be posted in the [dedicated LinkedIn post](https://www.linkedin.com/posts/Oz-Davidi).
+Any comments or questions related to this part can be posted in the [dedicated LinkedIn post](https://www.linkedin.com/in/Oz-Davidi/).
 <br><br>
 
 ---
