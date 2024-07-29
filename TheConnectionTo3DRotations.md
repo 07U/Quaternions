@@ -145,7 +145,7 @@ To the next part: [\\(\\text{V}\\ \\) On The Adjoint Representation](https://07U
 
 # Discussion
 
-Any comments or questions related to this part can be posted in the [dedicated LinkedIn post](https://www.linkedin.com/in/Oz-Davidi/).
+Any comments or questions related to this part can be posted in the [dedicated LinkedIn post](https://www.linkedin.com/posts/oz-davidi_dear-network-in-the-text-i-wrote-quaternions-activity-7223569852102279169-qXlu).
 <br><br>
 
 ---
