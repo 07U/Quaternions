@@ -34,3 +34,9 @@ In this text, the theory that relates quaternions and \\(3\\)-dimensional rotati
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\\(11\\ \\) The \\(SU\\!\\left(2\\right)\\) Algebra And Generators](https://07U.github.io/Quaternions/TheConnectionTo3DRotations#11--the-suleft2right-algebra-and-generators)
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\\(12\\ \\) The Connection Between \\(SU\\!\\left(2\\right)\\) And \\(SO\\!\\left(3\\right)\\)](https://07U.github.io/Quaternions/TheConnectionTo3DRotations#12--the-connection-between-suleft2right-and-soleft3right)
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\\(13\\ \\) Summary](https://07U.github.io/Quaternions/TheConnectionTo3DRotations#13--summary)
+
+# [\\(\\text{V}\\ \\) On The Adjoint Representation](https://07U.github.io/Quaternions/OnTheAdjointRepresentation)
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\\(14\\ \\) Deriving The Explicit Rotation Matrix Form](https://07U.github.io/Quaternions/OnTheAdjointRepresentation#14--deriving-the-explicit-rotation-matrix-form)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\\(14.1\\ \\) Reminder](https://07U.github.io/Quaternions/OnTheAdjointRepresentation#141--reminder)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\\(14.2\\ \\) Reducible Representation](https://07U.github.io/Quaternions/OnTheAdjointRepresentation#142--reducible-representation)
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\\(15\\ \\) A Branchless Matrix-To-Quaternion Translation](https://07U.github.io/Quaternions/OnTheAdjointRepresentation#15--a-branchless-matrix-to-quaternion-translation)
