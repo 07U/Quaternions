@@ -256,7 +256,7 @@ To the previous part: [\\(\\text{IV}\\ \\) The Connection To \\(3D\\) Rotations]
 
 # Discussion
 
-Any comments or questions related to this part can be posted in the [dedicated LinkedIn post](https://www.linkedin.com/in/Oz-Davidi/).
+Any comments or questions related to this part can be posted in the [dedicated LinkedIn post](https://www.linkedin.com/posts/oz-davidi_proud-8-months-ago-i-challenged-myself-activity-7226104655049588738-L1Jc).
 <br><br>
 
 ---
