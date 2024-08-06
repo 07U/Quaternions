@@ -169,7 +169,7 @@ and the transformed input matrix is, surprise surprise,
 The trace of the transformed input matrix is
 \\begin{equation}
 	\\label{eq:Transformed O Trace}
-	\\text{Tr}\\!\\left[\\tilde{O}\\right] = 4 \\tilde{w}^{2} - 1 \\quad\\Longleftrightarrow\\quad \\text{Tr}\\!\\left[R\_{z} O\\right] = O\_{22} - O\_{00} - O\_{11} = 4 z^{2} - 1\\,,
+	\\text{Tr}\\!\\left[\\tilde{O}\\right] = 4 \\tilde{w}^{2} - 1 \\quad\\Longleftrightarrow\\quad \\text{Tr}\\!\\left[R\_{z} O\\right] = O\_{22} - O\_{00} - O\_{11} = 4 z^{2} - 1\\,.
 \\end{equation}
 The right hand side of Eq.&nbsp;\\eqref{eq:Transformed O Trace} is the exact same expression computed by one of the classic algorithm's branches! We see then that the algebraic approach actually "applies" a rotation of the input matrix. We considered here only a rotation around the \\(\\hat{z}\\) direction, however the discussion applies also for the other directions - each corresponds to a different branch path. Replacing \\(O\\) in Eq.&nbsp;\\eqref{eq:Off-Diagonal Manipulation} by the new \\(\\tilde{O}\\) of Eq.&nbsp;\\eqref{eq:Transformed O} would result in the other quaternion's coefficients: \\(\\tilde{x}\\), \\(\\tilde{y}\\), and \\(\\tilde{z}\\).
 
