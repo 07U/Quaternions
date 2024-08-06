@@ -75,6 +75,12 @@ Want your LinkedIn profile to appear here? Please join the conversation and cont
 To the next part: [\\(\\text{II}\\ \\) Intuition](https://07U.github.io/Quaternions/Intuition).
 <br><br>
 
+# Discussion
+
+Any comments or questions related to this part can be posted in the [dedicated LinkedIn post](
+https://www.linkedin.com/posts/oz-davidi_dear-network-and-community-in-the-past-activity-7209858721005400064-t-XS).
+<br><br>
+
 ---
 <br>
 
