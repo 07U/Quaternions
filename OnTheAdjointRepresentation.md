@@ -79,7 +79,7 @@ Notice the subtle difference between Eq.&nbsp;\\eqref{eq:Q Transformation Normal
 \\end{equation}
 In this \\(4D\\) space, the Tensor representation \\(D\_{\\text{T}}\\!\\left(U\\right) \\equiv U \\otimes U^{\\ast}\\) [is written as](https://en.wikipedia.org/wiki/Tensor_product#Tensor_product_of_linear_maps)
 \\begin{equation}
-	D\_{\\text{T}}\\!\\left(U\\right) = \\begin{pmatrix} \\left(U\_{11} \\cdot U^{\\ast}\\right) & \\left(U\_{12} \\cdot U^{\\ast}\\right) \\\\ \\left(U\_{21} \\cdot U^{\\ast}\\right) & \\left(U\_{22} \\cdot U^{\\ast}\\right) \\end{pmatrix} = \\begin{pmatrix} \\left|a\\right|^{2} & -a b & -b^{\\ast} a^{\\ast} & \\left|b\\right|^{2} \\\\ a b^{\\ast} & a^{2} & -b^{\\ast2} & -b^{\\ast} a \\\\ b a^{\\ast} & -b^{2} & a^{\\ast2} & -a^{\\ast} b \\\\ \\left|b\\right|^{2} & b a & a^{\\ast} b^{\\ast} & \\left|a\\right|^{2} \\end{pmatrix}\\,.
+	D\_{\\text{T}}\\!\\left(U\\right) = \\begin{pmatrix} \\left(U^{\\ast}\_{11} \\cdot U\\right) & \\left(U^{\\ast}\_{12} \\cdot U\\right) \\\\ \\left(U^{\\ast}\_{21} \\cdot U\\right) & \\left(U^{\\ast}\_{22} \\cdot U\\right) \\end{pmatrix} = \\begin{pmatrix} \\left|a\\right|^{2} & -a^{\\ast} b^{\\ast} & -b a & \\left|b\\right|^{2} \\\\ a^{\\ast} b & a^{\\ast2} & -b^{2} & -b a^{\\ast} \\\\ b^{\\ast} a & -b^{\\ast2} & a^{2} & -a b^{\\ast} \\\\ \\left|b\\right|^{2} & b^{\\ast} a^{\\ast} & a b & \\left|a\\right|^{2} \\end{pmatrix}\\,.
 \\end{equation}
 There is an equivalence of transformations
 \\begin{equation}
@@ -102,7 +102,7 @@ Well, this factor of \\(\\sqrt{2}\\) is awkward. The reason for its appearance i
 But do not be bothered by this too much. Prepare to say Hocus-Pocus, as the real magic happens when applying the transformation to \\(D\_{\\text{T}}\\!\\left(U\\right)\\)
 \\begin{equation}
 	\\label{eq:Reducable Representation}
-	\\!\\!\\!\\!D\_{\\text{T}}\\!\\left(U\\right) \\longmapsto B D\_{\\text{T}}\\!\\left(U\\right) B^{\\dagger} \\!=\\! \\begin{pmatrix} 1 & 0 & 0 & 0 \\\\ 0 & \\mathfrak{Re}\\!\\left[a^{2} \\!-\\! b^{2}\\right] & \\mathfrak{Im}\\!\\left[a^{2} \\!-\\! b^{2}\\right] & 2 \\mathfrak{Re}\\!\\left[a b^{\\ast}\\right] \\\\ 0 & -\\mathfrak{Im}\\!\\left[a^{2} \\!+\\! b^{2}\\right] & \\mathfrak{Re}\\!\\left[a^{2} \\!+\\! b^{2}\\right] & -2 \\mathfrak{Im}\\!\\left[a b^{\\ast}\\right] \\\\ 0 & -2 \\mathfrak{Re}\\!\\left[a b\\right] & -2 \\mathfrak{Im}\\!\\left[a b\\right] & \\left|a\\right|^{2} \\!-\\! \\left|b\\right|^{2} \\end{pmatrix}\\,.\\!\\!\\!\\!
+	\\!\\!\\!\\!D\_{\\text{T}}\\!\\left(U\\right) \\longmapsto B D\_{\\text{T}}\\!\\left(U\\right) B^{\\dagger} \\!=\\! \\begin{pmatrix} 1 & 0 & 0 & 0 \\\\ 0 & \\mathfrak{Re}\\!\\left[a^{2} \\!-\\! b^{2}\\right] & -\\mathfrak{Im}\\!\\left[a^{2} \\!-\\! b^{2}\\right] & 2 \\mathfrak{Re}\\!\\left[a b^{\\ast}\\right] \\\\ 0 & \\mathfrak{Im}\\!\\left[a^{2} \\!+\\! b^{2}\\right] & \\mathfrak{Re}\\!\\left[a^{2} \\!+\\! b^{2}\\right] & 2 \\mathfrak{Im}\\!\\left[a b^{\\ast}\\right] \\\\ 0 & 2 \\mathfrak{Re}\\!\\left[a b\\right] & 2 \\mathfrak{Im}\\!\\left[a b\\right] & \\left|a\\right|^{2} \\!-\\! \\left|b\\right|^{2} \\end{pmatrix}\\,.\\!\\!\\!\\!
 \\end{equation}
 We can clearly see that under this basis, the \\(4\\)-dimensional Tensor representation of \\(U\\) got decomposed into:
 * A \\(1 \\times 1\\) block - called the *Trivial Representation*, and denoted by \\(\\boldsymbol{1}\\). The Trivial representation is the map \\(D\_{\\text{Triv}}\\!\\left(U\\right) \\equiv 1\\), for any \\(U\\).
@@ -115,7 +115,7 @@ To summarize, we have shown that \\(\\boldsymbol{2} \\otimes \\boldsymbol{\\over
 &nbsp;&nbsp;&nbsp;&nbsp;As a final step, let us derive the (well-known form of the) Adjoint representation of \\(q\\). For that, the relation between \\(a\\) and \\(b\\), and the quaternion coefficients, Eq.&nbsp;\\eqref{eq:Q to S}, is inserted into the Adjoint block of Eq.&nbsp;\\eqref{eq:Reducable Representation}
 \\begin{equation}
 	\\label{eq:Quaternion Adjoint Representation}
-	D\_{\\text{Ad}}\\!\\left(q\\right) = \\begin{pmatrix} 2 \\left(w^{2} + x^{2}\\right) - 1 & 2 \\left(x y + w z\\right) & 2 \\left(x z - w y\\right) \\\\ 2 \\left(x y - w z\\right) & 2 \\left(w^{2} + y^{2}\\right) - 1 & 2 \\left(y z + w x\\right) \\\\ 2 \\left(x z + w y\\right) & 2 \\left(y z - w x\\right) & 2 \\left(w^{2} + z^{2}\\right) - 1 \\end{pmatrix}\\,.
+	D\_{\\text{Ad}}\\!\\left(q\\right) = \\begin{pmatrix} 2 \\left(w^{2} + x^{2}\\right) - 1 & 2 \\left(x y - w z\\right) & 2 \\left(x z + w y\\right) \\\\ 2 \\left(x y + w z\\right) & 2 \\left(w^{2} + y^{2}\\right) - 1 & 2 \\left(y z - w x\\right) \\\\ 2 \\left(x z - w y\\right) & 2 \\left(y z + w x\\right) & 2 \\left(w^{2} + z^{2}\\right) - 1 \\end{pmatrix}\\,.
 \\end{equation}
 
 &nbsp;&nbsp;&nbsp;&nbsp;We did it. The relation between the quaternion coefficients and those of a rotation matrix is fully understood. We also understand why the matrix elements depend on the multiplication of two of the quaternion's components - it is a result of a tensor multiplication. The translation of a quaternion into a matrix is done easily enough by using Eq.&nbsp;\\eqref{eq:Quaternion Adjoint Representation}. However, when one wishes to extract the quaternion's coefficients out of a rotation matrix, there is "hard work" involved.
@@ -136,7 +136,7 @@ The quaternion Adjoint representation, Eq.&nbsp;\\eqref{eq:Quaternion Adjoint Re
 Furthermore, the off-diagonal elements of the Adjoint matrix are composed of symmetric and anti-symmetric terms. This means that they could be combined together by addition or subtraction to eliminate one part or the other. Having an expression for \\(w\\), we could subtract opposite off-diagonal elements, to extract the other quaternion parameters.
 \\begin{equation}
 	\\label{eq:Off-Diagonal Manipulation}
-	x = \frac{O\_{12} - O\_{21}}{2 \\sqrt{1 + \\text{Tr}\\!\\left[O\\right]}}\\,,\\ y = \frac{O\_{20} - O\_{02}}{2 \\sqrt{1 + \\text{Tr}\\!\\left[O\\right]}}\\,,\\ z = \frac{O\_{01} - O\_{10}}{2 \\sqrt{1 + \\text{Tr}\\!\\left[O\\right]}}\\,.
+	x = \frac{O\_{21} - O\_{12}}{2 \\sqrt{1 + \\text{Tr}\\!\\left[O\\right]}}\\,,\\ y = \frac{O\_{02} - O\_{20}}{2 \\sqrt{1 + \\text{Tr}\\!\\left[O\\right]}}\\,,\\ z = \frac{O\_{10} - O\_{01}}{2 \\sqrt{1 + \\text{Tr}\\!\\left[O\\right]}}\\,.
 \\end{equation}
 This works well, as long as the trace is not too close to \\(-1\\), which leads to a numerical inaccuracy, or an undefined result when it is exactly \\(-1\\). Here comes branching for the rescue. Whenever the trace is, for example, negative, one could just take the trace expression and negate two out of the three diagonal elements, making the whole expression positive. From this new, positive, expression, a different coefficient (\\(x\\), \\(y\\), or \\(z\\)) could be algebraically extracted. Then, the off-diagonal elements are manipulated accordingly to extract the rest of the parameters. You can find the full algorithm online with a simple search, so it is not explicitly presented here.
 
