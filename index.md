@@ -38,5 +38,5 @@ In this text, the theory that relates quaternions and \\(3\\)-dimensional rotati
 # [\\(\\text{V}\\ \\) On The Adjoint Representation](https://07U.github.io/Quaternions/OnTheAdjointRepresentation)
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\\(14\\ \\) Deriving The Explicit Rotation Matrix Form](https://07U.github.io/Quaternions/OnTheAdjointRepresentation#14--deriving-the-explicit-rotation-matrix-form)
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\\(14.1\\ \\) Reminder](https://07U.github.io/Quaternions/OnTheAdjointRepresentation#141--reminder)
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\\(14.2\\ \\) Reducible Representation](https://07U.github.io/Quaternions/OnTheAdjointRepresentation#142--a-reducible-representation)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\\(14.2\\ \\) A Reducible Representation](https://07U.github.io/Quaternions/OnTheAdjointRepresentation#142--a-reducible-representation)
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\\(15\\ \\) A Branchless Matrix-To-Quaternion Translation](https://07U.github.io/Quaternions/OnTheAdjointRepresentation#15--a-branchless-matrix-to-quaternion-translation)
