@@ -8,7 +8,7 @@
 </h3>
 <br>
 
-In this text, the theory that relates quaternions and \\(3\\)-dimensional rotations - represented as \\(3 \\times 3\\) matrices - is reviewd. At the end of it, a branchless algorithm for extracting the quaternion parameters out of a rotation matrix is presented, accompanied by a possible implementation.
+In this text, the theory that relates quaternions and \\(3\\)-dimensional rotations - represented as \\(3 \\times 3\\) matrices - is reviewed. At the end of it, a branchless algorithm for extracting the quaternion parameters out of a rotation matrix is presented, accompanied by a possible implementation.
 <br><br>
 
 # [\\(\\text{I}\\ \\) Preamble](https://07U.github.io/Quaternions/Preamble)
